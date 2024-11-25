@@ -1,0 +1,11 @@
+*{
+    background-color: aqua;
+}
+#para_1{
+    color: chartreuse;
+}
+.something{
+    color:beige;
+    font-size:small;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
